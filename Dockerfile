@@ -1,5 +1,5 @@
 # ベースイメージを設定
-FROM node:latest
+FROM node:14
 
 # 環境変数を設定
 ENV LANG C.UTF-8
